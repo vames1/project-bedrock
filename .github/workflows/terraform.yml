@@ -29,6 +29,11 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
+      - name: Zip Lambda Function
+        run: |
+          cd lambda
+          zip function.zip index.py
+
       - name: Terraform Init
         working-directory: terraform
         run: terraform init
