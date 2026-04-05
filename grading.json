@@ -14,16 +14,6 @@
     "type": "string",
     "value": "project-bedrock-cluster"
   },
-  "dev_view_access_key_id": {
-    "sensitive": false,
-    "type": "string",
-    "value": "AKIA2RVBZ6FCNAQGCNFB"
-  },
-  "dev_view_secret_access_key": {
-    "sensitive": true,
-    "type": "string",
-    "value": "Nm6uLR7LynzGYOJAgpNCkclk0dOCqrfb2ZPRl47k"
-  },
   "region": {
     "sensitive": false,
     "type": "string",
