@@ -96,3 +96,4 @@ Cloud Engineer | Lagos, Nigeria
 - 🐙 GitHub: https://github.com/vames1
 - 📧 Email: victoroluwaseyi2018@gmail.com
 
+# Project Bedrock - InnovateMart EKS Deployment
